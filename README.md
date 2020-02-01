@@ -1,2 +1,2 @@
 # CTA-Ridership-Analysis
-This is a Web-Based Application
+The app is based on the MVC design pattern, using ASP.NET, C# and ADO.NET
